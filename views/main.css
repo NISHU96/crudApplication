@@ -1,0 +1,36 @@
+p {
+    margin-top: 10px;
+    font-size:16px;
+    color: blue;
+    text-decoration: underline;
+}
+ p:hover {
+     cursor: pointer;
+ }
+body {
+    font-family: helvetica;
+}
+ h1 {
+     font-family: helvetica;
+     background: linear-gradient(to right,#3385ff,#cce0ff);
+     color: white;
+     font-size: 3rem;
+     padding-left: 50px;
+     padding-top: 10px;
+     padding-bottom: 10px;
+ }
+
+ #users,#page2,#update,#container {
+     margin-top: 50px;
+    margin-left:50px;
+    margin-right:100px;
+ }
+
+ #edituser {
+     font-size: 10px;
+     color: blue;
+ }
+
+ #edituser:hover {
+    cursor: pointer;
+ }
